@@ -1,20 +1,53 @@
-<h1 align="center">Hi 👋, I'm Amogha</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Amogha Hegde</h1>
+<h3 align="center">Software Engineer | Backend & Distributed Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amogha-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="amogha-hegde" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amogha-hegde" alt="amogha-hegde" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/amogha-hegde">
+    <img src="https://komarev.com/ghpvc/?username=amogha-hegde&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amogha-hegde&show_icons=true&locale=en&layout=compact" alt="amogha-hegde" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amogha-hegde&show_icons=true&locale=en" alt="amogha-hegde" /></p>
+- 🇮🇳 Software Engineer based in India  
+- 🧠 Strong focus on **backend systems, APIs, distributed architectures, and reliability**
+- 🏗️ Experienced in **multi-tenant platforms, workflow engines, WebSockets, and high-availability systems**
+- ⚙️ Comfortable working close to infra — **databases, queues, caching, networking**
+- 📈 Passionate about building **scalable, observable, and maintainable systems**
 
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+- **Python**, Bash, SQL
+
+#### Backend & Frameworks
+- Django, Django REST Framework  
+- Async systems, WebSockets, background workers
+
+#### Databases & Storage
+- PostgreSQL, Oracle, SQLite  
+- Redis (caching, queues)
+
+#### DevOps & Infra
+- Docker, Linux  
+- NGINX, OpenResty  
+- AWS, Google Cloud  
+- Jenkins (CI/CD)
+
+#### Observability
+- Grafana, logging & metrics-driven debugging
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 GitHub: https://github.com/amogha-hegde  
+- 🧠 Always open to discussions on **backend architecture, scaling, and system design**
+
+---
+
+⭐ *I believe good systems are built by combining clean code, solid architecture, and operational empathy.*
